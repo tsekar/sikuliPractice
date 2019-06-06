@@ -1,0 +1,24 @@
+[debug (29/9/16 3:41:18 PM)] Debug: setLogFile: /Users/tamilarasans/Downloads/SikuliX-1.1.0-SetupLog.txt
+[debug (29/9/16 3:41:18 PM)] RunSetup: ... starting with no args given
+[debug (29/9/16 3:41:18 PM)] RunSetup: Setup: 1.1.0 2015-10-06_17:22 in folder:
+/Users/tamilarasans/Downloads
+[debug (29/9/16 3:41:20 PM)] RunSetup: RunningSystem: Mac OSX 10.11.4
+[debug (29/9/16 3:41:20 PM)] RunSetup: parent of jar/classes: /Users/tamilarasans/Downloads
+[debug (29/9/16 3:41:20 PM)] RunSetup: RunningJava: Java 8 (x86_64) 1.8.0_101-b13
+[debug (29/9/16 3:41:20 PM)] init user preferences
+[debug (29/9/16 3:41:24 PM)] RunSetup: 
+popError: --------------------
+You only selected Option 3 !
+This is currently not supported.
+Please start allover again with valid options.
+--------------------
+[error (29/9/16 3:41:25 PM)] RunSetup: 
+[error (29/9/16 3:41:25 PM)] RunSetup: ... terminated abnormally :-(
+[debug (29/9/16 3:41:25 PM)] RunSetup: 
+popError: --------------------
+Something serious happened! Sikuli not useable!
+Check the error log at /Users/tamilarasans/Downloads/SikuliX-1.1.0-SetupLog.txt
+--------------------
+[debug (29/9/16 3:41:26 PM)] RunTimeSETUP: final cleanup
+[debug (29/9/16 3:41:26 PM)] FileManager: deleteFileOrFolder:
+/var/folders/nb/nz222g7j2z905_gxhc3cnvmcnfqw88/T/Sikulix_5249200
